@@ -1,5 +1,5 @@
 {
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "This snap shows if the address you are sending to is a known address in your Farcaster social graph.",
   "proposedName": "Farcaster Helper",
   "repository": {
@@ -7,7 +7,7 @@
     "url": "https://github.com/limone-eth/farcaster-snap"
   },
   "source": {
-    "shasum": "+rwlburlH3p8iVTrTIgGWqoom9BBvuwFnnGMjgprUtU=",
+    "shasum": "5vBeP75HOLWqbWYqIt+lq3cNk/+mQvzvLfm3Y0YbWNI=",
     "location": {
       "npm": {
         "filePath": "dist/bundle.js",
