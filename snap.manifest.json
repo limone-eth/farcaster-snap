@@ -1,0 +1,28 @@
+{
+  "version": "0.2.2",
+  "description": "This snap shows if the address you are sending to is a known address in your Farcaster social graph.",
+  "proposedName": "Farcaster Helper",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/limone-eth/farcaster-snap"
+  },
+  "source": {
+    "shasum": "+rwlburlH3p8iVTrTIgGWqoom9BBvuwFnnGMjgprUtU=",
+    "location": {
+      "npm": {
+        "filePath": "dist/bundle.js",
+        "iconPath": "images/icon.svg",
+        "packageName": "farcaster-snap",
+        "registry": "https://registry.npmjs.org/"
+      }
+    }
+  },
+  "initialPermissions": {
+    "snap_dialog": {},
+    "endowment:transaction-insight": {},
+    "endowment:ethereum-provider": {},
+    "endowment:network-access": {},
+    "endowment:lifecycle-hooks": {}
+  },
+  "manifestVersion": "0.1"
+}
